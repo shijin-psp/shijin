@@ -139,7 +139,7 @@ export default [
         id: 8,
         avatar: 'https://user-images.githubusercontent.com/54170356/63202395-01514a00-c0bc-11e9-883f-ace0b1b635c3.png',
         name: '鱼香肉丝',
-        uisine: '川菜',
+        cuisine: '川菜',
         grade: '尚',
         category: '控制',
         cv: '魏超',
